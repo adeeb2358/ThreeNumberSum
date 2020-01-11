@@ -55,9 +55,6 @@ std::vector<std::vector<int>> threeNumberSum(std::vector<int> array, int targetS
             }
         }
     }
-    
-    
-    
     return resultVector;
 }
 
